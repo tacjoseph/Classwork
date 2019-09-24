@@ -9,10 +9,10 @@
 int main()
 {
 	int j=  41;
-	int o = 42;
-	int s = 43;
-	int e = 44;
-	int p = 45;
+	char o = 42;
+	bool s = 43;
+	float e = 44;
+	double p = 45;
 	int h = 46;
 
 	std::cout << j+o+s+e+p+h << std::endl;
